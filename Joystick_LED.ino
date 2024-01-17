@@ -68,3 +68,6 @@ void loop() {
    analogWrite(Gpin, G);
    analogWrite(Bpin, B);
 }
+
+//Demo video 
+//https://www.youtube.com/watch?v=6T-CkN4ck4Y
